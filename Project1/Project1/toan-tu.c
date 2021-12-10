@@ -4,10 +4,10 @@ void main()
 {
 	unsigned short x = 0;
 	unsigned short y = 0;
-	unsigned short low = 0xabcd;
 	unsigned short high = 0xabcd;
-	x = low >> 8;
-	y = high << 8;
+	unsigned short low = 0xabcd;
+	x = high >> 8;
+	y = low << 8;
 	printf("value: %x\r\n", x);
 	printf("value: %x\r\n", y);
 
