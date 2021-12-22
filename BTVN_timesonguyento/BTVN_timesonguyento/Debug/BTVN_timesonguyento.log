@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\admin\Desktop\BTVN\BTVN_timesonguyento\BTVN_timesonguyento\Source.c(11,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\admin\Desktop\BTVN\BTVN_timesonguyento\BTVN_timesonguyento\Source.c(13,27): warning C4013: 'sqrt' undefined; assuming extern returning int
+  BTVN_timesonguyento.vcxproj -> C:\Users\admin\Desktop\BTVN\BTVN_timesonguyento\Debug\BTVN_timesonguyento.exe
