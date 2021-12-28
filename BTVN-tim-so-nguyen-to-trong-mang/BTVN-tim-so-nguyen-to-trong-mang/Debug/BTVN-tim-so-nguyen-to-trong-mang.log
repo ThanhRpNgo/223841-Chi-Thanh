@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\admin\Desktop\BTVN\BTVN-tim-so-nguyen-to-trong-mang\BTVN-tim-so-nguyen-to-trong-mang\Source.c(11,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+  BTVN-tim-so-nguyen-to-trong-mang.vcxproj -> C:\Users\admin\Desktop\BTVN\BTVN-tim-so-nguyen-to-trong-mang\Debug\BTVN-tim-so-nguyen-to-trong-mang.exe
