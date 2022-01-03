@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\admin\Desktop\BTVN\BTVN-bienchuthuongthanhchuoi\BTVN-bienchuthuongthanhchuoi\Source.c(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\Desktop\BTVN\BTVN-bienchuthuongthanhchuoi\BTVN-bienchuthuongthanhchuoi\Source.c(31,15): warning C4133: 'return': incompatible types - from 'char *' to 'int *'
+C:\Users\admin\Desktop\BTVN\BTVN-bienchuthuongthanhchuoi\BTVN-bienchuthuongthanhchuoi\Source.c(41,1): warning C4133: 'initializing': incompatible types - from 'int *' to 'char *'
+  BTVN-bienchuthuongthanhchuoi.vcxproj -> C:\Users\admin\Desktop\BTVN\BTVN-bienchuthuongthanhchuoi\Debug\BTVN-bienchuthuongthanhchuoi.exe
