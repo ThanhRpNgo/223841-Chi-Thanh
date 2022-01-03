@@ -1,0 +1,7 @@
+﻿  Source1.c
+C:\Users\admin\source\repos\BTVN-in-hoa\BTVN-in-hoa\Source1.c(7,23): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\admin\source\repos\BTVN-in-hoa\BTVN-in-hoa\Source1.c(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\BTVN-in-hoa\BTVN-in-hoa\Source1.c(7,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\admin\source\repos\BTVN-in-hoa\BTVN-in-hoa\Source1.c(39,9): warning C4133: 'function': incompatible types - from 'int [300]' to 'char *'
+C:\Users\admin\source\repos\BTVN-in-hoa\BTVN-in-hoa\Source1.c(41,23): warning C4133: 'function': incompatible types - from 'int [300]' to 'char *'
+  BTVN-in-hoa.vcxproj -> C:\Users\admin\source\repos\BTVN-in-hoa\Debug\BTVN-in-hoa.exe
