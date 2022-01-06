@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\admin\source\repos\Project2\Project2\Source.c(24): warning C4716: 'nhap': must return a value
+C:\Users\admin\source\repos\Project2\Project2\Source.c(32): warning C4716: 'xuat': must return a value
+  Project2.vcxproj -> C:\Users\admin\source\repos\Project2\Debug\Project2.exe

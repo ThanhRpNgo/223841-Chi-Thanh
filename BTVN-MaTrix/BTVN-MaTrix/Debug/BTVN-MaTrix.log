@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\admin\source\repos\BTVN-MaTrix\BTVN-MaTrix\Source.c(68,2): warning C4098: 'main': 'void' function returning a value
+  BTVN-MaTrix.vcxproj -> C:\Users\admin\source\repos\BTVN-MaTrix\Debug\BTVN-MaTrix.exe
