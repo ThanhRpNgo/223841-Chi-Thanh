@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\admin\source\repos\BTVN-demsophantu\BTVN-demsophantu\Source.c(24,11): warning C4133: 'function': incompatible types - from 'int [300]' to 'char *'
+C:\Users\admin\source\repos\BTVN-demsophantu\BTVN-demsophantu\Source.c(25,39): warning C4133: 'function': incompatible types - from 'int [300]' to 'char *'
+C:\Users\admin\source\repos\BTVN-demsophantu\BTVN-demsophantu\Source.c(26,2): warning C4098: 'main': 'void' function returning a value
+  BTVN-demsophantu.vcxproj -> C:\Users\admin\source\repos\BTVN-demsophantu\Debug\BTVN-demsophantu.exe
